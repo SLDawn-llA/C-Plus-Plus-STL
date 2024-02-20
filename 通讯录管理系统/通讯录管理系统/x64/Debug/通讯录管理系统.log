@@ -1,0 +1,7 @@
+﻿  通讯录.cpp
+E:\Visual studio 2022\code\通讯录管理系统\通讯录管理系统\通讯录.cpp(53,46): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+E:\Visual studio 2022\code\通讯录管理系统\通讯录管理系统\通讯录.cpp(66,53): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\Visual studio 2022\code\通讯录管理系统\通讯录管理系统\通讯录.cpp(78,45): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+E:\Visual studio 2022\code\通讯录管理系统\通讯录管理系统\通讯录.cpp(85,47): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+E:\Visual studio 2022\code\通讯录管理系统\通讯录管理系统\通讯录.cpp(91,46): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  通讯录管理系统.vcxproj -> E:\Visual studio 2022\code\通讯录管理系统\x64\Debug\通讯录管理系统.exe
